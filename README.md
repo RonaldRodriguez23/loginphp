@@ -42,5 +42,4 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ---
 
-Puedes personalizar este README según las características específicas de tu aplicación y cualquier otra información que desees proporcionar.
 
